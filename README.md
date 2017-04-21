@@ -1,1 +1,1 @@
-# This is a html5 Quick Start pack
+# This is a html5 Quick Starter pack
