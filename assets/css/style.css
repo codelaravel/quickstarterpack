@@ -1,4 +1,33 @@
-/* Base CSS */
+/*
+* ----------------------------------------------------------------------------------------
+    Author       : Shuvro Roy
+    Template Name: * Template
+    Version      : 1.0
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 01.GLOBAL CSS STYLE
+* 02.PRELOADER & BOUNCE CCS STYLE
+* 03.HOMEPAGE CSS STYLE
+    -LOGO CSS
+    -MENU CSS
+* 04.ABOUT CSS STYLE
+* 05. WORK EXPERIENCE & EDUCATION CSS STYLE
+* 06.SERVICE CSS STYLE
+* 07.WORK CSS STYLE
+* 08.TESTIMONIAL CSS STYLE
+* 09.SOCIAL CSS STYLE
+* 10.CONTACT CSS STYLE
+* 11.FOOTER CSS STYLE
+* ----------------------------------------------------------------------------------------
+*/
+/*
+* ----------------------------------------------------------------------------------------
+* 01.GLOBAL STYLE
+* ----------------------------------------------------------------------------------------
+*/
 .alignleft {
     float: left;
     margin-right: 15px;
@@ -30,7 +59,7 @@ body { height: 100% }
 body {
 
 }
-a:hover { text-decoration: none }
+a:hover { text-decoration: none; }
 
 /* Remove Chrome Input Field's Unwanted Yellow Background Color */
 input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus {
